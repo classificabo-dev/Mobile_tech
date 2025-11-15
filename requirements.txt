@@ -5,40 +5,11 @@ numpy
 matplotlib
 seaborn
 
-
-
-jupyter: Para executar e editar notebooks interativos.
-
-pandas: Manipulação e análise de dados tabulares.
-
-numpy: Suporte a operações matemáticas e vetoriais.
-
-matplotlib: Visualizações básicas como gráficos de linha, barras, etc.
-
-seaborn: Visualizações estatísticas mais sofisticadas e estilizadas.
-
-
-
-
-
 pandas==2.1.1
 numpy==1.26.0
 matplotlib==3.8.0
 jupyter==1.0.0
-
-
-
-pandas: Manipulação de dados tabulares, leitura de CSV, cálculo de estatísticas como mediana.
-
-numpy: Suporte a operações matemáticas e estatísticas.
-
-matplotlib: Geração de gráficos e visualizações básicas.
-
-jupyter: Ambiente interativo para notebooks.
-
-
-
-
+seaborn==2.0.0
 
 
 bash
