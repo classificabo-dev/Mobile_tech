@@ -1,4 +1,6 @@
 # config_teste.yaml
+python -m pip install --upgrade pip
+
 dataset:
   file: "Mobile_tech.csv"
   columns:
