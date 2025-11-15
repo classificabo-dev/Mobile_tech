@@ -24,7 +24,7 @@ bash
 
 bash
 # jupyter notebook 
-
+jupyter==1.0.0
 
 
 
