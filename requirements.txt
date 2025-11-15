@@ -23,7 +23,7 @@ bash
 # Execute o notebook:
 
 bash
-jupyter notebook 
+# jupyter notebook 
 
 
 
