@@ -19,7 +19,7 @@ venv\Scripts\activate     # Windows
 Instale as dependências:
 
 bash
-pip install -r requirements.txt
+# pip install -r requirements.txt
 Execute o notebook:
 
 bash
